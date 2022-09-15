@@ -13,9 +13,8 @@
 # Requires Pipfile and Pipfile.lock
 # This was run in WSL Linux(Ubuntu) terminal (Visual Studio Code).
 # Install Flask: pip install Flask and pipenv install Flask
-#If I had more time: 
-# I would have learnt how to create and map Python classes based on the JSON file and read it. There is a function to paste the JSON file 
-# as a class inside the file. After this, I found it difficult to understand the tutorials online. 
+# If I had more time: 
+# I would have learnt more about Flask and endpoints in Python. I was learning how to create and map Python classes based on the JSON file and read it. There is a function to paste the JSON file as a class inside the file. After this, I found it difficult to understand the tutorials online. 
 
 # The resources used at the time were: 
 # https://auth0.com/blog/developing-restful-apis-with-python-and-flask/#-span-id--python-classes----span--Mapping-Models-with-Python-Classes
