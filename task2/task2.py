@@ -1,25 +1,25 @@
 #
-# Author: David Kim (z5255322@ad.unsw.edu.au)
+# Author: David Kim (z5255322@ad.unsw.edu.au).
 #
-# Date: September 2022
+# Date: September 2022.
 #
-# Task: Saber Astronautics Technical Test 2
+# Task: Saber Astronautics Technical Test 2.
 #
-# Function: Creating Simple Moving Average (SMA) from data
+# Function: Creating Simple Moving Average (SMA) from data.
 #
-# Description: This script reads data from a .json file, sorts it into relevant columns
+# Description: This script reads data from a .json file, sorts it into relevant columns.
 #              and visualises it in a graphical plot.
-#              Uses matplotlib and pandas package (.loc(), .dropna())
+#              Uses matplotlib and pandas package (.loc(), .dropna()).
 #
-# Parameters: .json file containing GOES 16 proton data (from a URL)
+# Parameters: .json file containing GOES 16 proton data (from a URL).
 #
-# Return: visual analysis and representation of a column in the .json file
+# Return: visual analysis and representation of a column in the .json file.
 #
-# Bugs: Mostly consisted of switching from WSL Linux. Should use VM linux for next time.
-#       Identifying and deleting NaN values such as on line.
-#       Difficulty with "energy" data due to data type being 'object'.
+# Bugs: Note that WSL Linux cannot do graphical functions like plots. Should configure for VM linux next time.
+#       Identifying and deleting NaN values.
+#       Difficulty with "energy" data due to data type being 'object' (unresolved).
 #       Using print() to see df1, df1.info() to help debug.
-#       Difficult to judge the 20 min window due to z axis labeling
+#       Difficult to judge the 20 min window due to x axis labeling.
 #
 # Sources: Importing data => https://www.w3schools.com/python/pandas/pandas_json.asp
 #          Slicing data => https://www.activestate.com/resources/quick-reads/how-to-slice-a-dataframe-in-pandas/
