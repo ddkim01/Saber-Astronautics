@@ -1,0 +1,15 @@
+# Task 1:
+# It is completed to the best of my ability.
+# This was run in windows command prompt terminal.
+
+# Task 2:
+# It is completed to the best of my ability. "Energy" was not analysed in the attempt due to time constraints. 
+# This was run in windows command prompt terminal. 
+# Otherwise pip install pandas, pip install matplotlib, otherwise the imports will not work.
+
+# Task 3:
+# It was not completed.
+# It was attempted but incomplete due to time constraints and lacking knowledge.
+# Requires Pipfile and Pipfile.lock
+# This was run in WSL Linux(Ubuntu) terminal
+# Install Flask: pip install Flask and pipenv install Flask
